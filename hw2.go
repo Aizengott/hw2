@@ -5,7 +5,7 @@ import (
 	//"hw2/cachettl"
 	"time"
 
-	"github.com/Aizengott/udemi_hw2/cachettl"
+	"github.com/Aizengott/hw2/cachettl"
 )
 
 func main() {
